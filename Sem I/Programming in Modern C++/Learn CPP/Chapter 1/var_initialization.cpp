@@ -23,7 +23,7 @@ int main()
 
     // Identifier naming conventions
     int val {}; // lowercase 
-    int my_var_name {}; int my_fn_name (); // snakecase
+    int my_var_name {}; // snakecase
     int myVarName {}; // Camelcase (conventional, best practice)
 
 
